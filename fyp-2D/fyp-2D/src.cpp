@@ -1,3 +1,6 @@
+//  Created by Adnan Shafique on 16/04/2015.
+//  Copyright (c) 2015 Adnan Shafique. All rights reserved.
+
 #include<opencv/cvaux.h>
 #include<opencv2/highgui/highgui.hpp>
 #include<opencv/cxcore.h>
