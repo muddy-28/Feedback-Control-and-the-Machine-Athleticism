@@ -1,0 +1,55 @@
+﻿Build started 7/6/2015 6:36:27 PM.
+     1>Project "C:\Users\adnan\Desktop\4-July - Copy\fyp-2-car\fyp-2D\fyp-2D.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\fyp-2D.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt src.cpp
+         src.cpp
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(328): warning C4244: '=' : conversion from 'float' to 'clock_t', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(338): warning C4244: '=' : conversion from 'float' to 'clock_t', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(380): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(388): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(389): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(395): warning C4244: '=' : conversion from 'float' to 'clock_t', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(398): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(420): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(427): warning C4244: '=' : conversion from 'float' to 'clock_t', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(430): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(446): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(447): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(471): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(471): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(471): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(471): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(482): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(482): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(482): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(486): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(486): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(486): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(486): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(498): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(498): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(498): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(498): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(504): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(504): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(504): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(508): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(508): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(508): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\adnan\desktop\4-july - copy\fyp-2-car\fyp-2d\src.cpp(508): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\adnan\Desktop\4-July - Copy\fyp-2-car\Debug\fyp-2D.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:c:\opencv\build\x86\vc10\lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fyp-2D.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\adnan\Desktop\4-July - Copy\fyp-2-car\Debug\fyp-2D.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\adnan\Desktop\4-July - Copy\fyp-2-car\Debug\fyp-2D.lib" /MACHINE:X86 Debug\src.obj
+     1>src.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         fyp-2D.vcxproj -> C:\Users\adnan\Desktop\4-July - Copy\fyp-2-car\Debug\fyp-2D.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\adnan\Desktop\4-July - Copy\fyp-2-car\Debug\fyp-2D.exe;#1" /manifest "Debug\fyp-2D.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\fyp-2D.unsuccessfulbuild".
+         Touching "Debug\fyp-2D.lastbuildstate".
+     1>Done Building Project "C:\Users\adnan\Desktop\4-July - Copy\fyp-2-car\fyp-2D\fyp-2D.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
