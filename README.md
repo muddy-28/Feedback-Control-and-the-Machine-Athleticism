@@ -1,3 +1,7 @@
+
+##Demo Autonomous Robot
+[![Demo Autonomous Path finding Robot](http://gift.edu.pk/img/logo.jpg)](https://player.vimeo.com/video/132900424)
+
 ##A Quadcopter
 is a multicopter that is lifted and propelled by four rotors. Quadcopters are considered rotocraft due to the fact that their lift is achieved by a set of revolving narrow chord airfoils. Quadcopters use symmetrically pitched blades unlike helicopters. The vehicle motion of the quadcopter is controlled by altering the pitch and rotation rate of one or more rotor discs, which in turn changes the torque load and lift characteristics. Quadcopters have various models available. The quadcopter is used for military purposes, security to recreational flying. Quadcopters are small in size and have great maneuverability, which make them great for indoor and outdoor flying.
 
